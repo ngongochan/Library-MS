@@ -1,0 +1,22 @@
+Library Transaction Details
+
+
+Date of donation:      Thu May 23 13:40:28 2024
+Book details:
+Title:                 To Kill a Mockingbird
+Author:                K
+Year of Publication:   1960
+ISBN:                  9781784752637
+
+Date Borrowed:          Thu May 23 13:43:44 2024
+Book Details:
+Title:                 To Kill a Mockingbird
+Author:                K
+Year of Publication:   1960
+ISBN:                  9781784752637
+Member Details:
+
+Member:                
+Email Address:         janedoe
+Member ID:             7437882
+

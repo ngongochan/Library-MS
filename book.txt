@@ -1,0 +1,682 @@
+Fiction books and Restricted Books:
+
+Title: The Great Gatsby
+Author: F. Scott Fitzgerald
+Year of Publication: 1925
+ISBN: 9798351145013
+Genre: Classic
+
+Title: American Psycho
+Author: Bret Easton Ellis
+Year of Publication: 1991
+ISBN: 679735771
+Genre: Contemporary
+
+Title: Nineteen Eighty-Four
+Author: George Orwell
+Year of Publication: 1949
+ISBN: 679417397
+Genre: Dystopian
+
+Title: Moby Dick
+Author: Herman Melville
+Year of Publication: 1851
+ISBN: 143105957
+Genre: Classic
+
+Title: One Flew Over the Cuckoo’s Nest
+Author: Ken Kesey
+Year of Publication: 1962
+ISBN: 143105027
+Genre: Tragedy
+
+Title: Catch-22
+Author: Joseph Heller
+Year of Publication: 1961
+ISBN: 1451626657
+Genre: Satire
+
+Title: One Hundred Years of Solitude
+Author: Gabriel García Márquez
+Year of Publication: 1967
+ISBN: 60883286
+Genre: Magical
+
+Title: The Notebook
+Author: Nicholas Sparks
+Year of Publication: 1996
+ISBN: 1455582875
+Genre: Romance
+
+Title: Pride and Prejudice
+Author: Jane Austen
+Year of Publication: 1813
+ISBN: 141439513
+Genre: Romance
+
+Title: Bridget Jones’s Diary
+Author: Helen Fielding
+Year of Publication: 1996
+ISBN: 1529057078
+Genre: Chick Lit
+
+Title: Normal People
+Author: Sally Rooney
+Year of Publication: 2018
+ISBN: 1984822187
+Genre: Romance
+
+Title: The Color Purple
+Author: Alice Walker
+Year of Publication: 1982
+ISBN: 143135694
+Genre: Epistolary
+
+Title: The Time Traveler’s Wife
+Author: Audrey Niffenegger
+Year of Publication: 2003
+ISBN: 1476764832
+Genre: Science
+
+Title: It Ends With Us
+Author: Colleen Hoover
+Year of Publication: 2016
+ISBN: 1501110365
+Genre: Romance
+
+Title: And Then There Were None
+Author: Agatha Christie
+Year of Publication: 1939
+ISBN: 62073486
+Genre: Mystery
+
+Title: The Da Vinci Code
+Author: Dan Brown
+Year of Publication: 2003
+ISBN: 307277674
+Genre: Mystery
+
+Title: Where the Crawdads Sing
+Author: Delia Owens
+Year of Publication: 2018
+ISBN: 735219109
+Genre: Mystery
+
+Title: Gone Girl
+Author: Gillian Flynn
+Year of Publication: 2012
+ISBN: 307588378
+Genre: Thriller
+
+Title: Silence of the Lambs
+Author: Thomas Harris
+Year of Publication: 1988
+ISBN: 312924585
+Genre: Thriller
+
+Title: The Girl with the Dragon Tattoo
+Author: Stieg Larsson
+Year of Publication: 2005
+ISBN: 307454541
+Genre: Crime
+
+Title: The Girl on the Train
+Author: Paula Hawkins
+Year of Publication: 2015
+ISBN: 857522329
+Genre: Mystery
+
+Title: The Hobbit
+Author: J.R.R. Tolkien
+Year of Publication: 1937
+ISBN: 395071224
+Genre: Fantasy
+
+Title: A Game of Thrones
+Author: George R.R. Martin
+Year of Publication: 1996
+ISBN: 553588486
+Genre: Fantasy
+
+Title: Six of Crows
+Author: Leigh Bardugo
+Year of Publication: 2015
+ISBN: 9781250076960
+Genre: Fantasy
+
+Title: Dune
+Author: Frank Herbert
+Year of Publication: 1965
+ISBN: 441013597
+Genre: Science
+
+Title: The Hitchhiker’s Guide to the Galaxy
+Author: Douglas Adams
+Year of Publication: 1979
+ISBN: 345418913
+Genre: Science
+
+Title: The Martian
+Author: H. G. Wells
+Year of Publication: 2011
+ISBN: 553418025
+Genre: Science
+
+Title: Fahrenheit 451
+Author: Ray Bradbury
+Year of Publication: 1953
+ISBN: 1451673264
+Genre: Dystopian
+
+Title: The Handmaid’s Tale
+Author: Margaret Atwood
+Year of Publication: 1985
+ISBN: 9780385490818
+Genre: Dystopian
+
+Title: The Shining
+Author: Stephen King
+Year of Publication: 1977
+ISBN: 345806786
+Genre: Horror
+
+Title: Frankenstein
+Author: Mary Shelley
+Year of Publication: 1818
+ISBN: 143131842
+Genre: Gothic
+
+Title: The Haunting of Hill House
+Author: Shirley Jackson
+Year of Publication: 1959
+ISBN: 143039989
+Genre: Horror
+
+Title: Dracula
+Author: Bram Stoker
+Year of Publication: 1897
+ISBN: 141196882
+Genre: Gothic
+
+Title: The Lion, the Witch, and the Wardrobe
+Author: C.S. Lewis
+Year of Publication: 1950
+ISBN: 64471047
+Genre: Fantasy
+
+Title: Charlie and the Chocolate Factory
+Author: Roald Dahl
+Year of Publication: 1964
+ISBN: 142410314
+Genre: Children
+
+Title: The Hunger Games
+Author: Suzanne Collins
+Year of Publication: 2008
+ISBN: 439023521
+Genre: Science
+
+Title: Divergent
+Author: Veronica Roth
+Year of Publication: 2011
+ISBN: 62387243
+Genre: Dystopian
+
+Title: City of Bones
+Author: Cassandra Clare
+Year of Publication: 2007
+ISBN: 1481455923
+Genre: Fantasy
+
+Title: The Divine Comedy
+Author: Dante Alighieri
+Year of Publication: 1308
+ISBN: 9780140449327
+Genre: Epic
+
+Title: Beowulf
+Author: Unknown
+Year of Publication: 1000
+ISBN: 9780393320978
+Genre: Epic
+
+Title: The Tale of Genji
+Author: Murasaki Shikibu
+Year of Publication: 1100
+ISBN: 9780142437148
+Genre: Classic
+
+Title: The Decameron
+Author: Giovanni Boccaccio
+Year of Publication: 1353
+ISBN: 9780393059365
+Genre: Classic
+
+Title: The Iliad
+Author: Homer
+Year of Publication: 750
+ISBN: 9780140445923
+Genre: Epic
+
+Title: The Odyssey
+Author: Homer
+Year of Publication: 800
+ISBN: 9780140268867
+Genre: Epic
+
+Title: Les Misérables
+Author: Victor Hugo
+Year of Publication: 1862
+ISBN: 9780140444308
+Genre: Historical
+
+Title: Paradise Lost
+Author: John Milton
+Year of Publication: 1667
+ISBN: 9780140424393
+Genre: Epic
+
+Title: The Hunchback of Notre-Dame
+Author: Victor Hugo
+Year of Publication: 1831
+ISBN: 9780140433531
+Genre: Gothic
+
+Title: Don Juan
+Author: Lord Byron
+Year of Publication: 1820
+ISBN: 9780140424522
+Genre: Epic
+
+Title: Gulliver's Travels
+Author: Jonathan Swift
+Year of Publication: 1726
+ISBN: 9780141439495
+Genre: Satire
+
+Title: Robinson Crusoe
+Author: Daniel Defoe
+Year of Publication: 1719
+ISBN: 9780141439822
+Genre: Adventure
+
+Title: The Picture of Dorian Gray
+Author: Oscar Wilde
+Year of Publication: 1890
+ISBN: 9780141439570
+Genre: Gothic
+
+Title: The Three Musketeers
+Author: Alexandre Dumas
+Year of Publication: 1844
+ISBN: 9780141439563
+Genre: Adventure
+
+Title: Alice's Adventures in Wonderland
+Author: Lewis Carroll
+Year of Publication: 1865
+ISBN: 9780141439761
+Genre: Fantasy
+
+Title: Wuthering Heights
+Author: Emily Brontë
+Year of Publication: 1847
+ISBN: 9780141439556
+Genre: Gothic
+
+Title: To Kill a Mockingbird
+Author: K
+Year of Publication: 1960
+ISBN: 9781784752637
+Genre: Novel
+
+Non-Fiction books and Academic texts:
+
+Title: Educated
+Author: Tara Westover
+Year of Publication: 2018
+ISBN: 9780399590504
+Genre: Memoir
+
+Title: The Immortal Life of Henrietta Lacks
+Author: Rebecca Skloot
+Year of Publication: 2010
+ISBN: 9781400052172
+Genre: Science
+
+Title: The Power of Habit
+Author: Charles Duhigg
+Year of Publication: 2012
+ISBN: 9780812981605
+Genre: Self-Help
+
+Title: Blink: The Power of Thinking Without Thinking
+Author: Malcolm Gladwell
+Year of Publication: 2005
+ISBN: 9780316010665
+Genre: Psychology
+
+Title: The 7 Habits of Highly Effective People
+Author: Stephen R. Covey
+Year of Publication: 1989
+ISBN: 9781982135298
+Genre: Self-Help
+
+Title: Outliers: The Story of Success
+Author: Malcolm Gladwell
+Year of Publication: 2008
+ISBN: 9780316017930
+Genre: Psychology
+
+Title: Thinking, Fast and Slow
+Author: Daniel Kahneman
+Year of Publication: 2011
+ISBN: 9780374533557
+Genre: Psychology
+
+Title: The Four Agreements: A Practical Guide to Personal Freedom
+Author: Don Miguel Ruiz
+Year of Publication: 1997
+ISBN: 9781878424310
+Genre: Self-Help
+
+Title: Quiet: The Power of Introverts in a World That Can't Stop Talking
+Author: Susan Cain
+Year of Publication: 2012
+ISBN: 9780307352156
+Genre: Psychology
+
+Title: The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life
+Author: Mark Manson
+Year of Publication: 2016
+ISBN: 9780062457714
+Genre: Self-Help
+
+Title: Just Mercy: A Story of Justice and Redemption
+Author: Bryan Stevenson
+Year of Publication: 2014
+ISBN: 9780812984965
+Genre: Memoir
+
+Title: The Devil in the White City: Murder, Magic, and Madness at the Fair That Changed America
+Author: Erik Larson
+Year of Publication: 2003
+ISBN: 9780375725609
+Genre: History
+
+Title: Man's Search for Meaning
+Author: Viktor E. Frankl
+Year of Publication: 1946
+ISBN: 9780807014295
+Genre: Psychology
+
+Title: Born a Crime: Stories from a South African Childhood
+Author: Trevor Noah
+Year of Publication: 2016
+ISBN: 9780399588174
+Genre: Memoir
+
+Title: Guns, Germs, and Steel: The Fates of Human Societies
+Author: Jared Diamond
+Year of Publication: 1997
+ISBN: 9780393317558
+Genre: History
+
+Title: In Cold Blood
+Author: Truman Capote
+Year of Publication: 1966
+ISBN: 9780679745587
+Genre: True Crime
+
+Title: Bad Blood: Secrets and Lies in a Silicon Valley Startup
+Author: John Carreyrou
+Year of Publication: 2018
+ISBN: 9781524731656
+Genre: Business
+
+Title: The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing
+Author: Marie Kondo
+Year of Publication: 2011
+ISBN: 9781607747307
+Genre: Self-Help
+
+Title: How to Win Friends and Influence People
+Author: Dale Carnegie
+Year of Publication: 1936
+ISBN: 9780671027032
+Genre: Self-Help
+
+Title: The Tipping Point: How Little Things Can Make a Big Difference
+Author: Malcolm Gladwell
+Year of Publication: 2000
+ISBN: 9780316316965
+Genre: Psychology
+
+Title: The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma
+Author: Bessel van der Kolk
+Year of Publication: 2014
+ISBN: 9780670785933
+Genre: Psychology
+
+Title: Hillbilly Elegy: A Memoir of a Family and Culture in Crisis
+Author: J.D. Vance
+Year of Publication: 2016
+ISBN: 9780062300546
+Genre: Memoir
+
+Title: The Art of War
+Author: Sun Tzu
+Year of Publication: 5
+ISBN: 9781590302255
+Genre: Military
+
+Title: Why We Sleep: Unlocking the Power of Sleep and Dreams
+Author: Matthew Walker
+Year of Publication: 2017
+ISBN: 9781501144318
+Genre: Science
+
+Title: The Omnivore's Dilemma: A Natural History of Four Meals
+Author: Michael Pollan
+Year of Publication: 2006
+ISBN: 9780143038580
+Genre: Science
+
+Title: Unbroken: A World War II Story of Survival, Resilience, and Redemption
+Author: Laura Hillenbrand
+Year of Publication: 2010
+ISBN: 9781400064168
+Genre: History
+
+Title: The Wright Brothers
+Author: David McCullough
+Year of Publication: 2015
+ISBN: 9781476728742
+Genre: Biography
+
+Title: How to Change Your Mind: What the New Science of Psychedelics Teaches Us About Consciousness, Dying, Addiction, Depression, and Transcendence
+Author: Michael Pollan
+Year of Publication: 2018
+ISBN: 9781594204227
+Genre: Science
+
+Title: The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics
+Author: Daniel James Brown
+Year of Publication: 2013
+ISBN: 9780143125471
+Genre: History
+
+Title: Evicted: Poverty and Profit in the American City
+Author: Matthew Desmond
+Year of Publication: 2016
+ISBN: 9780553447453
+Genre: Sociology
+
+Title: Into the Wild
+Author: Jon Krakauer
+Year of Publication: 1996
+ISBN: 9780385486804
+Genre: Biography
+
+Title: The Warmth of Other Suns: The Epic Story of America's Great Migration
+Author: Isabel Wilkerson
+Year of Publication: 2010
+ISBN: 9780679444329
+Genre: History
+
+Title: Stiff: The Curious Lives of Human Cadavers
+Author: Mary Roach
+Year of Publication: 2003
+ISBN: 9780393324822
+Genre: Science
+
+Title: The Emperor of All Maladies: A Biography of Cancer
+Author: Siddhartha Mukherjee
+Year of Publication: 2010
+ISBN: 9781439170915
+Genre: Science
+
+Title: The Man Who Mistook His Wife for a Hat and Other Clinical Tales
+Author: Oliver Sacks
+Year of Publication: 1985
+ISBN: 9780684853949
+Genre: Psychology
+
+Title: Quiet Strength: The Principles, Practices, and Priorities of a Winning Life
+Author: Tony Dungy
+Year of Publication: 2007
+ISBN: 9781414318011
+Genre: Biography
+
+Title: The Power of Now: A Guide to Spiritual Enlightenment
+Author: Eckhart Tolle
+Year of Publication: 1997
+ISBN: 9781577314806
+Genre: Spirituality
+
+Title: Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen
+Author: Christopher McDougall
+Year of Publication: 2009
+ISBN: 9780307279187
+Genre: Sports
+
+Title: Moneyball: The Art of Winning an Unfair Game
+Author: Michael Lewis
+Year of Publication: 2003
+ISBN: 9780393324815
+Genre: Sports
+
+Title: Introduction to Algorithms
+Author: Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein
+Year of Publication: 2009
+ISBN: 9780262033848
+Genre: Computer Science
+
+Title: Organic Chemistry
+Author: Jonathan Clayden, Nick Greeves, Stuart Warren
+Year of Publication: 2012
+ISBN: 9780199270293
+Genre: Chemistry
+
+Title: Microeconomics
+Author: Robert S. Pindyck, Daniel L. Rubinfeld
+Year of Publication: 2017
+ISBN: 9780134472133
+Genre: Economics
+
+Title: Psychology: From Inquiry to Understanding
+Author: Scott O. Lilienfeld, Steven J. Lynn, Laura L. Namy, Nancy J. Woolf
+Year of Publication: 2019
+ISBN: 9780135178050
+Genre: Psychology
+
+Title: Biostatistics: A Foundation for Analysis in the Health Sciences
+Author: Wayne W. Daniel, Chad L. Cross
+Year of Publication: 2018
+ISBN: 9781111425282
+Genre: Biostatistics
+
+Title: An Introduction to Sociolinguistics
+Author: Ronald Wardhaugh
+Year of Publication: 2015
+ISBN: 9781118732292
+Genre: Linguistics
+
+Title: Fundamentals of Corporate Finance
+Author: Stephen A. Ross, Randolph W. Westerfield, Bradford D. Jordan
+Year of Publication: 2018
+ISBN: 9781259918957
+Genre: Finance
+
+Title: Environmental Science: Toward a Sustainable Future
+Author: Richard T. Wright, Dorothy F. Boorse
+Year of Publication: 2018
+ISBN: 9780134011271
+Genre: Environmental Science
+
+Title: Linear Algebra and Its Applications
+Author: David C. Lay, Steven R. Lay, Judi J. McDonald
+Year of Publication: 2015
+ISBN: 9780134022697
+Genre: Mathematics
+
+Title: Principles of Economics
+Author: N. Gregory Mankiw
+Year of Publication: 2018
+ISBN: 9781337091992
+Genre: Economics
+
+Title: Medical Surgical Nursing: Patient-Centered Collaborative Care
+Author: Donna D. Ignatavicius, M. Linda Workman
+Year of Publication: 2017
+ISBN: 9780323444194
+Genre: Nursing
+
+Title: Campbell Biology
+Author: Lisa A. Urry, Michael L. Cain, Steven A. Wasserman, Peter V. Minorsky, Jane B. Reece
+Year of Publication: 2020
+ISBN: 9780135188745
+Genre: Biology
+
+Title: Introduction to Political Science: A Christian Perspective
+Author: Bruce Riley Ashford, Mark Caleb Smith
+Year of Publication: 2019
+ISBN: 9781540960421
+Genre: Political Science
+
+Title: Essentials of Investments
+Author: Zvi Bodie, Alex Kane, Alan J. Marcus
+Year of Publication: 2019
+ISBN: 9781260013924
+Genre: Finance
+
+Title: Engineering Mechanics: Dynamics
+Author: J. L. Meriam, L. G. Kraige
+Year of Publication: 2016
+ISBN: 9781118885840
+Genre: Engineering
+
+Title: Developmental Biology
+Author: Scott F. Gilbert
+Year of Publication: 2014
+ISBN: 9781605354705
+Genre: Biology
+
+Title: Introduction to Sociology
+Author: Anthony Giddens, Mitchell Duneier, Richard P. Appelbaum, Deborah Carr
+Year of Publication: 2016
+ISBN: 9780393264302
+Genre: Sociology
+
+Title: Physics for Scientists and Engineers with Modern Physics
+Author: Raymond A. Serway, John W. Jewett
+Year of Publication: 2019
+ISBN: 9781337553278
+Genre: Physics
+
+Title: Research Methods in Psychology
+Author: Beth Morling
+Year of Publication: 2017
+ISBN: 9780393617542
+Genre: Psychology
+
